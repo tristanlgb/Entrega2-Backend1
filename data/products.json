@@ -1,0 +1,40 @@
+[
+  {
+    "id": "001",
+    "title": "Bulbasaur",
+    "description": "Planta/Veneno. Pokémon semilla.",
+    "code": "PKM001",
+    "price": 500,
+    "status": true,
+    "stock": 25,
+    "category": "planta",
+    "thumbnails": [
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Charmander",
+    "description": "Fuego. Pokémon lagartija.",
+    "code": "PKM004",
+    "price": 600,
+    "status": true,
+    "stock": 30,
+    "category": "fuego",
+    "thumbnails": [
+      
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Squirtle",
+    "description": "Agua. Pokémon tortuguita.",
+    "code": "PKM007",
+    "price": 550,
+    "status": true,
+    "stock": 20,
+    "category": "agua",
+    "thumbnails": [
+      
+    ]
+  }
+]
